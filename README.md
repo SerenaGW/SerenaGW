@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**SerenaGW/SerenaGW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Serena 👋
 
-Here are some ideas to get you started:
+I'm an AI security researcher, focusing on cutting-edge vulnerabilities that challenge the internal logic of language models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Mission! ⭐️
+I work on the frontiers of red teaming, discovering and documenting vulnerabilities to help build a safer and more responsible AI ecosystem. My goal is to ensure that defenses advance faster than attacks.
+
+---
+
+### 🛠️ Projects and Contributions
+* **The Future of AI Safety: How Symbolic Language Reveals Paths Towards LLM Resilience:** https://github.com/SerenaGW/LLMReadteamSymbolic
+* **Semantic Re-signification and Linguistic Denial of Service in LLMs:** https://github.com/SerenaGW/LLMReadTeamLinguisticDoS/tree/main
+* **Symbolic Language Fine-Tuning Guide:** Coming soon—a free guide that reveals advanced techniques for fine-tuning LLMs, with a focus on how their vulnerabilities can be exploited and mitigated.
+
+---
+
+### 🤝 Support My Work
+My research is made possible by the support of the community. If you find value in my reports, please consider supporting me on my GitHub Sponsorship
+
+
+### 📧 Contact
+https://www.linkedin.com/in/serena-gomez-wannaz/
