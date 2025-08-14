@@ -5,7 +5,7 @@ I'm an AI security researcher, focusing on cutting-edge vulnerabilities that cha
 
 ---
 
-### My Mission! ⭐️
+### My Mission!
 I work on the frontiers of red teaming, discovering and documenting vulnerabilities to help build a safer and more responsible AI ecosystem. My goal is to ensure that defenses advance faster than attacks.
 
 ---
