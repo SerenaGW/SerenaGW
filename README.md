@@ -17,9 +17,5 @@ I work on the frontiers of red teaming, discovering and documenting vulnerabilit
 
 ---
 
-### 🤝 Support My Work
-My research is made possible by the support of the community. If you find value in my reports, please consider supporting me on my GitHub Sponsorship
-
-
 ### 📧 Contact
 https://www.linkedin.com/in/serena-gomez-wannaz/
