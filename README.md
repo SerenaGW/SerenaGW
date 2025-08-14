@@ -3,7 +3,6 @@
 
 I'm an AI security researcher, focusing on cutting-edge vulnerabilities that challenge the internal logic of language models.
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/e432a796-b6b8-48a3-b77c-1869d8a0bcd6" />
 ---
 
 ### My Mission! ⭐️
@@ -20,3 +19,5 @@ I work on the frontiers of red teaming, discovering and documenting vulnerabilit
 
 ### 📧 Contact
 https://www.linkedin.com/in/serena-gomez-wannaz/
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/e432a796-b6b8-48a3-b77c-1869d8a0bcd6" />
