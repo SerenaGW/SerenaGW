@@ -11,10 +11,12 @@ I work on the frontiers of red teaming, discovering and documenting vulnerabilit
 ---
 
 ### 🛠️ Projects and Contributions
+* **The Paradox of Optimization: When Linguistic Fine-Tuning Affects Mathematical Logic**
+This research, documented in a comprehensive report and a free Symbolic Language Fine-Tuning Guide, demonstrates how fine-tuning with a minimal dataset can induce a profound logical transfer in LLMs. The findings show a trade-off where a model gains speed and consistency but sacrifices its core reasoning and resilience in unexpected ways.
+
+https://github.com/SerenaGW/LLMLanguageFineTuningModifiesMathLogic
 * **The Future of AI Safety: How Symbolic Language Reveals Paths Towards LLM Resilience:** https://github.com/SerenaGW/LLMReadteamSymbolic
 * **Semantic Re-signification and Linguistic Denial of Service in LLMs:** https://github.com/SerenaGW/LLMReadTeamLinguisticDoS/tree/main
-* **Symbolic Language Fine-Tuning Guide:** Coming soon—a free guide that reveals advanced techniques for fine-tuning LLMs, with a focus on how their vulnerabilities can be exploited and mitigated.
-
 ---
 
 ### 📧 Contact
