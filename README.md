@@ -12,7 +12,6 @@ I work on the frontiers of red teaming, discovering and documenting vulnerabilit
 
 ### 🛠️ Projects and Contributions
 * **The Paradox of Optimized Fragility: When a Minimal In-Context Learning Guide Rewrites an LLM's Logic.**
-
 This research, documented in a comprehensive report and an open-source guide, demonstrates a new phenomenon: **in-context learning** with a minimal dataset of just 15 examples can fundamentally modify an LLM’s reasoning strategy.
 The findings reveal a crucial trade-off: a model can gain significant speed and consistency, but at the cost of a new vulnerability. This **"Optimized Fragility"** makes the model inflexible and systematically prone to failure when faced with problems that require lateral thinking or an analysis of fine details.
 https://github.com/SerenaGW/LLMLanguageFineTuningModifiesMathLogic
