@@ -12,7 +12,7 @@ I work on the frontiers of red teaming, discovering and documenting vulnerabilit
 
 ### 🛠️ Projects and Contributions
 * **The Paradox of Optimized Fragility: When a Minimal In-Context Learning Guide Rewrites an LLM's Logic.**
-This research, documented in a comprehensive report and an open-source guide, demonstrates a new phenomenon: **in-context learning** with a minimal dataset of just 15 examples can fundamentally modify an LLM’s reasoning strategy.
+This research, documented in a comprehensive report and an open-source guide, shows a new phenomenon: **in-context learning** with a minimal dataset of just 15 examples can modify an LLM’s reasoning strategy.
 The findings reveal a crucial trade-off: a model can gain significant speed and consistency, but at the cost of a new vulnerability.
 https://github.com/SerenaGW/LLMLanguageFineTuningModifiesMathLogic
 * **The Future of AI Safety: How Symbolic Language Reveals Paths Towards LLM Resilience:** https://github.com/SerenaGW/LLMReadteamSymbolic
