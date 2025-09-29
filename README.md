@@ -20,6 +20,6 @@ https://github.com/SerenaGW/LLMLanguageFineTuningModifiesMathLogic
 ---
 
 ### 📧 Contact
-https://www.linkedin.com/in/serena-gomez-wannaz/
+https://www.linkedin.com/in/serena-gw/
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e432a796-b6b8-48a3-b77c-1869d8a0bcd6" />
