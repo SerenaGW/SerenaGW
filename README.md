@@ -1,5 +1,5 @@
 
-## Hi, I'm Serena 👋
+## Hi 👋
 
 I'm an AI security researcher, focusing on cutting-edge vulnerabilities that challenge the internal logic of language models.
 
