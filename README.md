@@ -13,7 +13,7 @@ I run **Software Boutique**, where I build custom desktop applications for small
 #### [ICL Optimized Fragility](https://github.com/SerenaGW/ModulationofReasoninginLLMs)
 An experiment on how in-context learning guides change the behavior of an open-source model (gpt-oss-20b): 840+ automated tests across six configurations, with response times, accuracy and ANOVA analysis. The raw data is public and the time statistics are reproducible. Published as a preprint on [arXiv](https://arxiv.org/abs/2510.00300).
 
-#### [Whitespace-Encoded Inputs and Runaway Generation in gpt-oss-20b](https://github.com/SerenaGW/RedTeamLowEnthropy)
+#### [Whitespace-Encoded Inputs and Runaway Generation in gpt-oss-20b](https://github.com/SerenaGW/RedTeamLowEntropy)
 An exploratory red-teaming test developed for OpenAI's gpt-oss-20b Red-Teaming Challenge on Kaggle (2025). In some tests, a symbolic language built from blank spaces sent the model into long generation loops.
 
 #### [Noni](https://github.com/SerenaGW/Noni)
